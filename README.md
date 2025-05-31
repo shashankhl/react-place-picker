@@ -16,7 +16,7 @@ This project is built using **ReactJS** and demonstrates how to handle external 
 
 ## 🔗 Demo
 
-- 👉 <a target="_blank" href="https://shl-react-place-picker.netlify.app/">Click here</a> to try the Place Picker live!
+- 👉 <a target="_blank" href="https://react-place-picker.onrender.com/">Click here</a> to try the Place Picker live!
 
 <img src="thumbnail.png" alt="React Place Picker Screenshot" width="100%">
 
